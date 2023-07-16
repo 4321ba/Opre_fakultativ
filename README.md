@@ -1,4 +1,4 @@
-# Opre_fakultativ
+# Opre fakultatív kódok
 Operációs rendszerek c. tárgy fakultatív programozós házi feladatai
 
 A feladatleírások a tárgy moodle oldalán (voltak) elérhetők. Mivel a forráskód mellett a dokumentáció is fontos, ezért ezeket ide is bemásoltam (`doc_for_hf123` néven), de ezek a tantárgy tulajdonát képezik. Az itt megadott programkák az összes teszten átmentek, így komoly hiba nem lehet bennük. Alább bemásolom az elvárt bemenet és kimenet formátumát feladatonként, egy-egy példaként.
