@@ -61,6 +61,6 @@ T3,5,R3
 
 ## MFQ ütemező (egyedi feladat)
 
-Összes feladathoz tartozó fájl: `mfq_szorgalmi` mappa
+Összes, feladathoz tartozó fájl: `mfq_szorgalmi` mappa
 
 Mivel ez egy általam választott feladat volt, így a feladatkiírást és a teszteket is én írtam. Ezek megtalálhatóak a [dokumentáció](mfq_szorgalmi/documentation.pdf)ban.
